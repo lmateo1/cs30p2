@@ -1,0 +1,2 @@
+Name: Mateo, Grade Level: 11, Semester: 1
+Grades: 70.0, 95.0, 89.0, 80.0 Average: 83.5
