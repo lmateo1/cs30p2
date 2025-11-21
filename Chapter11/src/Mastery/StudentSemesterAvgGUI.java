@@ -1,3 +1,14 @@
+/*
+
+Program: StudentSemesterAvgGUI.java          Last Revision: November 21, 2025
+
+Purpose: An application that accepts four grades from a student, adds their information to a file, then displays the content of the file if prompted.
+
+Mateo Luna, CHHS
+Computer Programming 30
+ 
+*/
+
 package Mastery;
 
 import java.awt.EventQueue;
