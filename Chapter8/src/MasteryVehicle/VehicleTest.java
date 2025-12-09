@@ -16,7 +16,7 @@ public class VehicleTest {
 	public static void main(String[] args) 
 	{
 		
-		//Assign details to each of the vehicles
+		//Declare car, truck, and minivan objects, and assign details to each of the vehicles
         Vehicle car = new Car(10, 7, 4, 500.0, true);
         Vehicle truck = new Truck(15, 12, 2, 2000.0, true);
         Vehicle minivan = new Minivan(12, 9, 6, 3000.0, true);

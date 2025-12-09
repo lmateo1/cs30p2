@@ -20,7 +20,7 @@ public abstract class Vehicle
     	
     }
     
-    //Call to show details
+    //Call this class to show details
 	public abstract void showDetails();
 
 }
