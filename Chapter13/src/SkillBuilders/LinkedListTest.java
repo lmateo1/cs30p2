@@ -17,10 +17,6 @@ public class LinkedListTest {
 		System.out.println("list has "
 				+ list.size() + " items.");
 		
-		list.makeEmpty();
-		
-		System.out.println("list size: "
-				+ list.size() + " items.");
 	}
 
 }
